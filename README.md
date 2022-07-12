@@ -3,6 +3,7 @@
 ![🍉](https://cdn.emojidex.com/emoji/seal/watermelon.png "watermelon")
 
 NiceKatz is a process dumping tool which was developed as part of my software development and windows internals studies.
+
 This tool lets you dump the memory of windows process's in couple of different ways and avoids calling suspicious APIs. 
 
 It is well known already that most of the modern security solutions will block any API calls such as OpenProcess that targets sensetive processes(eg. lsass.exe), other then that, direct memory reading of such processes will also flag modern security solutions. If this is not enough, there are also some vendors that detects the signature of the dump file itself, so even if the handle to the process is retrieved, and the memory reading has completed, all of the work will be thrown away once the dump file touches the disk.. 
