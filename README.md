@@ -85,8 +85,7 @@ There is a list of TODOs and I will continue developing this tool in the future.
 If you encounter a bug, or want to ask for aditional features, just open an issue on this git repo. 
 
 ## Credits 
-Rasta mouse
-MalsecLogon
-NanoDump
-Deep Inistinct
-
+[@_RastaMouse](https://twitter.com/_rastamouse) for his [article](https://rastamouse.me/duplicating-handles-in-csharp/) on handle duplication
+[Asaf Gilboa](https://mobile.twitter.com/asaf_gilboa) for [Lsass Memory Dumps are Stealthier than Ever Before - Part 2](https://www.deepinstinct.com/blog/lsass-memory-dumps-are-stealthier-than-ever-before-part-2)
+[m0rv4i](https://twitter.com/m0rv4i) for implmenting MiniDumpWriteDump callback in c# at [SafetyDump](https://github.com/m0rv4i/SafetyDump)
+[Bill Demirkapi](https://twitter.com/BillDemirkapi) for [process forking](https://billdemirkapi.me/abusing-windows-implementation-of-fork-for-stealthy-memory-operations/)
