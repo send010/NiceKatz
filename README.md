@@ -76,7 +76,8 @@ Examples:
 ```
 
 ## Demo
-Demo goes here
+![NiceKatz_demo](https://user-images.githubusercontent.com/93016131/178569894-22633a13-b36b-450c-b607-88817f4590d8.gif)
+
 
 ## Future development
 There is a list of TODOs and I will continue developing this tool in the future.
