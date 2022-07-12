@@ -76,7 +76,10 @@ Examples:
 ```
 
 ## Demo
-![NiceKatz_demo](https://user-images.githubusercontent.com/93016131/178570213-ace97115-5001-4b89-8d89-4ced61ecf459.gif)
+
+
+https://user-images.githubusercontent.com/93016131/178570364-701c0649-b178-414e-af96-fc871899b1ec.mp4
+
 
 
 ## Future development
