@@ -362,7 +362,7 @@ void GetError(WCHAR* FunctionName)
 
 void Usage()
 {
-    printf("\n\NiceKatzController\n\tAlon Leviev(@0xDeku)\n\n");
+    printf("\nNiceKatzController\n\tAlon Leviev(@0xDeku)\n\n");
     printf("Arguments:\n"
         "-l Listen for connections from remote target machine\n"
         "-d Decrypt the dump file when recived from the target\n"
