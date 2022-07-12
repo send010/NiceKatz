@@ -77,7 +77,7 @@ Examples:
 
 ## Demo
 
-![20220712_204208_AdobeExpress](https://user-images.githubusercontent.com/93016131/178571370-65198db4-adf9-4801-ab87-2ba5dc2ad2fd.gif, 250x250)
+![20220712_204208](https://user-images.githubusercontent.com/93016131/178571906-19849b98-50fc-41c1-b23a-848a1bb8c8ac.gif)
 
 
 ## Future development
