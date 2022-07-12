@@ -477,7 +477,7 @@ void GetError(WCHAR* FunctionName)
 }
 
 void Usage() {
-    printf("\n\NiceKatz v0.1\n\tAlon Leviev(@0xDeku)\n\n");
+    printf("\nNiceKatz v0.1\n\tAlon Leviev(@0xDeku)\n\n");
     printf("Mandatory args: \n"
         "-m Process dump method\n"
         "\t1 = Dump target process by using MiniDumpWriteDump\n"
