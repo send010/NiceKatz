@@ -1,6 +1,7 @@
 # NiceKatz - a nice process dumping tool
 
 ![🍉](https://cdn.emojidex.com/emoji/seal/watermelon.png "watermelon")
+
 NiceKatz is a process dumping tool which was developed as part of my software development and windows internals studies.
 This tool lets you dump the memory of windows process's in couple of different ways and avoids calling suspicious APIs. 
 
