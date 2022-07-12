@@ -76,8 +76,8 @@ Examples:
 ```
 
 ## Demo
-<img src="[/images/output/video1.gif](https://user-images.githubusercontent.com/93016131/178570733-1569bc34-b222-4f1e-a1c0-83fea5423321.gif)" width="250" height="250"/>
-
+<img src="![20220712_204208_AdobeExpress](https://user-images.githubusercontent.com/93016131/178570967-b2b37e07-9767-44d2-97ef-15108ea7784b.gif)
+" width="250" height="250"/>
 
 
 ## Future development
