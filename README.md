@@ -77,7 +77,7 @@ Examples:
 
 ## Demo
 
-![20220712_204208](https://user-images.githubusercontent.com/93016131/178571906-19849b98-50fc-41c1-b23a-848a1bb8c8ac.gif)
+![20220712_215439 (1)](https://user-images.githubusercontent.com/93016131/178572628-bd8985f9-8516-419e-b06a-393b65269791.gif)
 
 
 ## Future development
